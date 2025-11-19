@@ -17,4 +17,4 @@ jobs:
       - name: "Checkout Code"
         uses: actions/checkout@v5
       - name: "Spell Check Repository"
-        uses: crate-ci/typos@v1
+        uses: crate-ci/typos@v1.39.1
